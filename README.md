@@ -23,10 +23,13 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
@@ -40,11 +43,6 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancarmona721&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  
-  <br>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake-dark.svg">
@@ -57,13 +55,15 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 ### Get in Touch
 
-<div align="left">
+<div align="center">
   <a href="mailto:juancarmona721@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juan-esteban-carmona-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/j_carmona6/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
