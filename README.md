@@ -43,6 +43,14 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancarmona721&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  
+  <br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
