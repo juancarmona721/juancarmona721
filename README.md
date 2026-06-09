@@ -11,7 +11,6 @@
 I am an Automation Developer based in Medellín, Colombia, currently training at Riwi. I build AI-driven solutions and workflows. I constantly seek the most optimal ways to improve processes and solve concrete business problems.
 
 * **Co-founder:** [Relev.ai](https://instagram.com/relev.ai) – A startup focused on automating repetitive business operations using AI agents.
-* **Philosophy:** Advocate for data privacy and ethical AI architectures. I secure sensitive company information using robust protocols like Supabase RLS.
 * **Languages:** Spanish (Native), English (C1), & French (A2).
 * **Beyond Code:** When I'm not developing, you can find me playing Valorant or listening to House music.
 
