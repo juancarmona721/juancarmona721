@@ -20,7 +20,7 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,docker,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,docker,github" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
