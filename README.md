@@ -20,7 +20,7 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,docker,github" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -44,6 +44,7 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 ### GitHub Stats
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juancarmona721/juancarmona721/output/github-contribution-grid-snake.svg">
