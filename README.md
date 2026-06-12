@@ -6,17 +6,17 @@
 
 ---
 
-### About Me
+## About Me
 
-I am an Automation Developer based in Medellín, Colombia, currently training at Riwi. I build AI-driven solutions and workflows. I constantly seek the most optimal ways to improve processes and solve concrete business problems.
+I am an **Automation Developer** based in Medellín, Colombia, currently training at Riwi. I build **AI-driven solutions and workflows**. I constantly seek the *most optimal ways* to improve processes and solve concrete business problems.
 
-* **Co-founder:** [Relev.ai](https://instagram.com/relev.ai) – A startup focused on automating repetitive business operations using AI agents.
-* **Languages:** Spanish (Native), English (C1), & French (A2).
-* **Beyond Code:** When I'm not developing, you can find me playing Valorant or listening to House music.
+* **Co-founder:** [Relev.ai](https://instagram.com/relev.ai) – A startup focused on **automating repetitive business operations** using **AI agents**.
+* **Languages:** Spanish *(Native)*, English *(C1)*, & French *(A2)*.
+* **Beyond Code:** When I'm not developing, you can find me playing **Valorant** or listening to **House music**.
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,15 +34,15 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-* **Relev.ai Engine:** Core automation architecture for my startup, utilizing AI agents to replace manual and repetitive business tasks.
-* **Tidi:** A personal finance progressive web application (PWA) that leverages AI to help users manage their money. It features text and voice input for expense tracking, automatic categorization, and tools for financial analysis and credit score monitoring.
-* **Pegasus Mechanics:** A mobile-first AI diagnostic assistant tailored for motorcycle repair shops. It utilizes Retrieval-Augmented Generation (RAG) to instantly consult highly technical mechanic manuals and improve workshop efficiency.
+* **Relev.ai Engine:** Core automation architecture for my startup, utilizing **AI agents** to replace manual and repetitive business tasks.
+* **Tidi:** A personal finance progressive web application (PWA) that leverages AI to help users manage their money. It features text and voice input for expense tracking, **automatic categorization**, and tools for financial analysis and credit score monitoring.
+* **Pegasus Mechanics:** A mobile-first AI diagnostic assistant tailored for motorcycle repair shops. It utilizes **Retrieval-Augmented Generation (RAG)** to instantly consult highly technical mechanic manuals and improve workshop efficiency.
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <picture>
@@ -54,7 +54,7 @@ I am an Automation Developer based in Medellín, Colombia, currently training at
 
 ---
 
-### Get in Touch
+## Get in Touch
 
 <div align="center">
   <a href="mailto:juancarmona721@gmail.com">
