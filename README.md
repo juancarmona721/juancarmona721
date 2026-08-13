@@ -12,7 +12,7 @@ I am an **Automation Developer** based in Medellín, Colombia, currently trainin
 
 * **Co-founder:** [Relev.ai](https://instagram.com/relev.ai) – A startup focused on **automating repetitive business operations** using **AI agents**.
 * **Languages:** Spanish *(Native)*, English *(C1)*, & French *(A2)*.
-* **Beyond Code:** When I'm not developing, you can find me playing **Valorant** or listening to **House music**.
+* **Beyond Code:** When I'm not developing, you can find listening to **House music**.
 
 ---
 
