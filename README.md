@@ -36,7 +36,7 @@ I am an **Automation Developer** based in Medellín, Colombia, currently trainin
 
 ## Featured Projects
 
-* **Relev.ai Engine:** Core automation architecture for my startup, utilizing **AI agents** to replace manual and repetitive business tasks.
+* **Relev.ai:** Automation tools for my startup, utilizing **AI agents** to replace manual and repetitive business tasks.
 * **Tidi:** A personal finance progressive web application (PWA) that leverages AI to help users manage their money. It features text and voice input for expense tracking, **automatic categorization**, and tools for financial analysis and credit score monitoring.
 * **Pegasus Mechanics:** A mobile-first AI diagnostic assistant tailored for motorcycle repair shops. It utilizes **Retrieval-Augmented Generation (RAG)** to instantly consult highly technical mechanic manuals and improve workshop efficiency.
 
